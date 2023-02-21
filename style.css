@@ -5,10 +5,23 @@ body {
   padding: 0;
 }
 
+main {
+  width: 375px;
+  margin: 0 auto;
+}
+
 nav {
   position: absolute;
-  right: 5%;
+  right: 38%;
   top: 3%;
+}
+
+header {
+  background-image: url(img/image_geometry_2.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+  height: 730px;
 }
 
 header h1 {
@@ -17,7 +30,7 @@ header h1 {
   font-weight: 400;
   position: absolute;
   top: 10%;
-  left: 8%;
+  left: 38%;
 }
 
 header p {
@@ -45,11 +58,6 @@ header button {
 button:hover {
   background-color: #4764ad;
   color: rgb(0, 0, 0);
-}
-
-.Background-img2 img {
-  width: 374px;
-  height: 198px;
 }
 
 .Work .Title {
@@ -118,7 +126,7 @@ button:hover {
   margin-left: 5px;
 }
 
-.About h1 {
+.About h2 {
   font-family: "Playfair Display", serif;
   color: #1a2236;
   font-size: 50px;
@@ -168,5 +176,43 @@ button:hover {
 }
 
 .Code-lang ul {
+  margin-left: -20px;
+}
+
+.Code-lang2 {
+  background-color: #e2505c;
+  color: white;
+  font-family: "Poppins", serif;
+  width: 299px;
+  height: 300px;
+  margin-top: 1.3%;
+  margin-left: 10px;
+  padding-top: 50px;
+  padding-left: 50px;
+  background-image: url(img/Cude.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.Code-lang2 ul {
+  margin-left: -20px;
+}
+
+.Code-lang3 {
+  background-color: #febf52;
+  color: white;
+  font-family: "Poppins", serif;
+  width: 299px;
+  height: 300px;
+  margin-top: 1.3%;
+  margin-left: 10px;
+  padding-top: 50px;
+  padding-left: 50px;
+  background-image: url(img/Ligthbud.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.Code-lang3 ul {
   margin-left: -20px;
 }
