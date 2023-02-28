@@ -144,6 +144,18 @@ button:hover {
   margin-right: 20px;
 }
 
+.Info-form button {
+  margin-top: 1%;
+  margin-bottom: 8%;
+  margin-left: 10px;
+  transition-duration: 0.4s;
+  width: 350px;
+  height: 50px;
+  background-color: #1a2236;
+  color: white;
+  font-size: 20px;
+}
+
 .About button {
   margin-top: 1%;
   margin-bottom: 8%;
@@ -277,18 +289,6 @@ label.email {
   font-family: "Poppins", serif;
   border: 1px solid #d0d9d4;
   border-radius: 5px;
-}
-
-.Info-form button {
-  margin-top: 1%;
-  margin-bottom: 8%;
-  margin-left: 10px;
-  transition-duration: 0.4s;
-  width: 350px;
-  height: 50px;
-  background-color: #1a2236;
-  color: white;
-  font-size: 20px;
 }
 
 .Info-form button:hover {
