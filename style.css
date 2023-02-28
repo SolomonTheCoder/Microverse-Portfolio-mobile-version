@@ -95,17 +95,20 @@ button:hover {
   display: flex;
   gap: 10px;
   margin-bottom: 50px;
+  
 }
 
 .list-items {
+  padding: 10px 10px;
   /* align-items: center; */
   /* float: left; */
   font-family: "Poppins", serif;
-  padding: 10px;
+  padding: 20px;
   outline: none;
   border: 1px solid;
   background: #98dede;
   font-size: 12px;
+  margin: 1.5px;
 }
 
 .Project-link {
