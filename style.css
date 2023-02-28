@@ -217,6 +217,98 @@ button:hover {
   margin-left: -20px;
 }
 
-.Form {
+.Info-form {
   margin-top: 20px;
+  background-color: #f9f9fa;
+}
+
+.footh2 {
+  font-family: "Playfair Display", serif;
+  font-size: 40px;
+  margin-left: 5%;
+}
+
+.footP {
+  font-family: "Poppins", serif;
+  font-size: 15px;
+  margin-left: 7%;
+  margin-right: 10%;
+}
+
+.form {
+  display: flex;
+  width: 280px;
+  padding-bottom: 2%;
+  padding-top: 30px;
+  padding-left: 8px;
+  border-radius: 4px;
+  border: 1px solid #d0d9d4;
+  margin-left: 9%;
+  margin-top: 5%;
+}
+
+.form:placeholder {
+  color: white;
+}
+
+label.name {
+  position: absolute;
+  left: 39%;
+  bottom: -706.5%;
+  font-family: "Poppins", serif;
+  font-size: 10px;
+}
+
+label.email {
+  position: absolute;
+  left: 39%;
+  bottom: -718%;
+  font-family: "Poppins", serif;
+  font-size: 10px;
+}
+
+.textarea {
+  background-color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 34px;
+  width: 286px;
+  height: 100px;
+  font-family: "Poppins", serif;
+  border: 1px solid #d0d9d4;
+  border-radius: 5px;
+}
+
+.Info-form button {
+  margin-top: 1%;
+  margin-bottom: 8%;
+  margin-left: 10px;
+  transition-duration: 0.4s;
+  width: 350px;
+  height: 50px;
+  background-color: #1a2236;
+  color: white;
+  font-size: 20px;
+}
+
+.Info-form button:hover {
+  background-color: #4764ad;
+  color: rgb(0, 0, 0);
+}
+
+.socials {
+  background-color: #1a2236;
+  height: 100px;
+}
+
+.socials p {
+  padding-top: 13px;
+  font-family: "Poppins", serif;
+  color: #92dcdc;
+  margin-left: 5%;
+}
+
+.socials ul {
+  color: white;
+  padding-top: 5px;
 }
