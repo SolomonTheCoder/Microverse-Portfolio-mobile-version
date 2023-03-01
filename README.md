@@ -1,7 +1,3 @@
-<a name="readme-top"></a>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -23,8 +19,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
@@ -169,7 +163,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> emmanuelsteven
 
 👤 **Author1**
 
@@ -179,9 +173,9 @@ Example:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/emmanuelsteven)
+- Twitter: [@twitterhandle](https://twitter.com/CjayStev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steven-emmanuel-75a03a141/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
