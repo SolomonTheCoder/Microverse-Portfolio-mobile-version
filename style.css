@@ -300,15 +300,21 @@ label.email {
 
 .socials {
   background-color: #1a2236;
-  height: 100px;
+  height: 150px;
   justify-items: center;
 }
 
 .socials p {
-  padding-top: 13px;
+  padding-top: 15px;
   font-family: "Poppins", serif;
   color: #92dcdc;
   margin-left: 5%;
+}
+
+.socials img {
+  position: absolute;
+  left: 48%;
+  bottom: -765%;
 }
 
 .socials a {
@@ -316,9 +322,10 @@ label.email {
 }
 
 .socials ul {
+  display: flex;
+  justify-content: space-around;
   color: white;
-  padding-top: 5px;
-  position: absolute;
-  bottom: -774%;
-  left: 34%;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-right: 22px;
 }
