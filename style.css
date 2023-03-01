@@ -297,8 +297,10 @@ label.email {
 }
 
 .socials {
+  display: flex;
   background-color: #1a2236;
   height: 100px;
+  justify-items: center;
 }
 
 .socials p {
@@ -311,4 +313,7 @@ label.email {
 .socials ul {
   color: white;
   padding-top: 5px;
+  position: absolute;
+  bottom: -791%;
+  left: 19%;
 }
