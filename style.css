@@ -286,8 +286,9 @@ label.email {
   margin-top: 15px;
   margin-bottom: 15px;
   margin-left: 34px;
-  width: 286px;
+  width: 280px;
   height: 100px;
+  padding-left: 10px;
   font-family: "Poppins", serif;
   border: 1px solid #d0d9d4;
   border-radius: 5px;
