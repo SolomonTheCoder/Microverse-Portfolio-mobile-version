@@ -98,9 +98,6 @@ button:hover {
 }
 
 .list-items {
-  padding: 10px 10px;
-  /* align-items: center; */
-  /* float: left; */
   font-family: "Poppins", serif;
   padding: 10px;
   outline: none;
