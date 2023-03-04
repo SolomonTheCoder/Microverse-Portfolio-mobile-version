@@ -394,6 +394,7 @@ label.email {
     align-self: center;
     gap: 3.5vw;
     list-style: none;
+    transition: all 0.5s ease-out;
   }
 
   .header-info h1 {
